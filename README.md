@@ -11,8 +11,8 @@
 
 ## Implemented Algorithms
 - Hidden Markov Model
-  -- Generate new text from the text corpus
-  -- Perform text prediction given a sequence of words
+  - Generate new text from the text corpus
+  - Perform text prediction given a sequence of words
 
 ## Project Files
 - [project file 1](https://github.com/nishil70/Tree-Models)
