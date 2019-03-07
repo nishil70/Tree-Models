@@ -3,7 +3,7 @@
 ## Requirements
    Probabilistic states and transitions
 
-## Team
+## Contributors
 - Nishil Parmar
 - Prashanthi
 
