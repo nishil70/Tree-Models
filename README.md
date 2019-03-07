@@ -3,8 +3,9 @@
 ## Requirements
    Probabilistic states and transitions
 
-## Members
+## Team
 - Nishil Parmar
+- Prashanthi
 
 ## Datasets
 - [Some NLP dataset](https://github.com/niderhoff/nlp-datasets)
