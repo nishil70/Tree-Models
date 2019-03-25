@@ -19,7 +19,7 @@ or from https://github.com/niderhoff/nlp-datasets
 - Prashanthi
 
 ## Datasets
-- [Some NLP dataset](https://github.com/niderhoff/nlp-datasets)
+- [Amazon Fine Food Reviews (240 MB)](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
 ## Implemented Algorithms
 - Hidden Markov Model
