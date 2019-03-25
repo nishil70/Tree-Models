@@ -30,4 +30,6 @@ or from https://github.com/niderhoff/nlp-datasets
 - [project file 1](https://github.com/nishil70/Tree-Models)
 
 ## References
-- reference 1
+- http://www.cs.cmu.edu/~./awm/tutorials/hmm.html
+- http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017
+- http://ieeexplore.ieee.org/iel5/5/698/00018626.pdf?arnumber=18626
