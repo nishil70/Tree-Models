@@ -16,7 +16,6 @@ or from https://github.com/niderhoff/nlp-datasets
 
 ## Contributors
 - Nishil Parmar
-- Prashanthi
 
 ## Datasets
 - [Amazon Fine Food Reviews (240 MB)](https://www.kaggle.com/snap/amazon-fine-food-reviews)
