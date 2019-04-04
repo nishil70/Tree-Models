@@ -30,6 +30,8 @@ or from https://github.com/niderhoff/nlp-datasets
 - [Text prediction using Review Summary](https://github.com/nishil70/HiddenMarkovModel/blob/master/notebooks/2_building-dictionary.ipynb)
 - [Text prediction using Reviews](https://github.com/nishil70/HiddenMarkovModel/blob/master/notebooks/3_generate-sentences.ipynb)
 - [Markov Model](https://github.com/nishil70/HiddenMarkovModel/blob/master/models/MarkovModel.py)
+- [persistent models](https://github.com/nishil70/HiddenMarkovModel/tree/master/archives)
+   - Couldn't include some of the trained persistant models as they were quite large in size
 
 ## References
 - http://www.cs.cmu.edu/~./awm/tutorials/hmm.html
