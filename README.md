@@ -20,10 +20,10 @@ or from https://github.com/niderhoff/nlp-datasets
 ## Datasets
 - [Amazon Fine Food Reviews (240 MB)](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
-## Implemented Algorithms
-- Hidden Markov Model
-  - Generate new text from the text corpus
-  - Perform text prediction given a sequence of words
+## Implementions
+- Text Generation and Prediction
+  - Uses 2nd Order Markov Chain Property
+  - Uses a Transition Probability Matrix to generate and predict next
 
 ## Project Files
 - [project file 1](https://github.com/nishil70/Tree-Models)
@@ -32,3 +32,6 @@ or from https://github.com/niderhoff/nlp-datasets
 - http://www.cs.cmu.edu/~./awm/tutorials/hmm.html
 - http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017
 - http://ieeexplore.ieee.org/iel5/5/698/00018626.pdf?arnumber=18626
+- https://towardsdatascience.com/using-a-markov-chain-sentence-generator-in-python-to-generate-real-fake-news-e9c904e967e
+- https://hackernoon.com/automated-text-generator-using-markov-chain-de999a41e047
+- https://medium.com/ymedialabs-innovation/next-word-prediction-using-markov-model-570fc0475f96
