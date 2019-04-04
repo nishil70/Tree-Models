@@ -26,7 +26,10 @@ or from https://github.com/niderhoff/nlp-datasets
   - Uses a Transition Probability Matrix to predict next word and eventually generates a sentence
 
 ## Project Files
-- [project file 1](https://github.com/nishil70/Tree-Models)
+- [sqllite3 database preprocessing](https://github.com/nishil70/HiddenMarkovModel/blob/master/notebooks/1_preprocessing.ipynb)
+- [Text prediction using Review Summary](https://github.com/nishil70/HiddenMarkovModel/blob/master/notebooks/2_building-dictionary.ipynb)
+- [Text prediction using Reviews](https://github.com/nishil70/HiddenMarkovModel/blob/master/notebooks/3_generate-sentences.ipynb)
+- [Markov Model](https://github.com/nishil70/HiddenMarkovModel/blob/master/models/MarkovModel.py)
 
 ## References
 - http://www.cs.cmu.edu/~./awm/tutorials/hmm.html
