@@ -23,7 +23,7 @@ or from https://github.com/niderhoff/nlp-datasets
 ## Implementions
 - Text Generation and Prediction
   - Uses 2nd Order Markov Chain Property
-  - Uses a Transition Probability Matrix to generate and predict next
+  - Uses a Transition Probability Matrix to predict next word and eventually generates a sentence
 
 ## Project Files
 - [project file 1](https://github.com/nishil70/Tree-Models)
